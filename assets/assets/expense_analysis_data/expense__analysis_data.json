@@ -1,0 +1,31 @@
+  {
+    "users": [
+      {
+        "userProfile": {
+          "firstName": "",
+          "lastName": "",
+          "gender": "",
+          "dateOfBirth": "",
+          "phoneNumber": "",
+          "email": "",
+          "password": "",
+          "address": {
+            "street": "",
+            "city": "",
+            "state": "",
+            "country": "",
+            "pinCode": ""
+          }
+        },
+        "transactionalData": {
+          "2024": {
+            "January": {
+              "1": {
+                "transactions": {}
+              }
+            }
+          }
+        }
+      }
+    ]
+  }
