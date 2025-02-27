@@ -1,6 +1,6 @@
 {
-    "name": "syncfusion_flutter_showcase_expenseanalysis",
-    "short_name": "syncfusion_flutter_showcase_expenseanalysis",
+    "name": "lib",
+    "short_name": "lib",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
