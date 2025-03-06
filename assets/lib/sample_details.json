@@ -68,7 +68,7 @@
                 "title": "Maps",
                 "key": "location_finder",
                 "codeLink": "https://github.com/syncfusion/flutter-examples/tree/master/lib/samples/ai_samples/ai_maps/location_finder.dart",
-                "description": "This sample allows users to search for and find locations."
+                "description": "This sample allows users to search and find locations with an appropriate API key."
               }
             ]
           },
@@ -102,7 +102,7 @@
               {
                 "status": "New",
                 "type": "sample",
-                "title": "Document Summarization",
+                "title": "Summarizer",
                 "key": "pdf_viewer_document_summarization",
                 "codeLink": "https://github.com/syncfusion/flutter-examples/tree/master/lib/samples/ai_samples/ai_pdf_viewer/ai_document_summarization.dart"
               }
