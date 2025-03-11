@@ -36,7 +36,7 @@
                 "title": "Smart Charts",
                 "key": "smart_ai_charts",
                 "codeLink": "https://github.com/syncfusion/flutter-examples/tree/master/lib/samples/ai_samples/ai_charts/chart_genarator/ai_chart_genarator.dart",
-                "description": "AI-powered chart generator."
+                "description": "AI-powered chart generator creates interactive and dynamic charts."
               }
             ]
           },
@@ -68,7 +68,7 @@
                 "title": "Maps",
                 "key": "location_finder",
                 "codeLink": "https://github.com/syncfusion/flutter-examples/tree/master/lib/samples/ai_samples/ai_maps/location_finder.dart",
-                "description": "This sample allows users to search and find locations with an appropriate API key."
+                "description": "This sample integrates with Google Generative AI and allows users to search for locations. Without an API key it works with offline data, while with a key it provides accurate map results."
               }
             ]
           },
@@ -104,7 +104,8 @@
                 "type": "sample",
                 "title": "Summarizer",
                 "key": "pdf_viewer_document_summarization",
-                "codeLink": "https://github.com/syncfusion/flutter-examples/tree/master/lib/samples/ai_samples/ai_pdf_viewer/ai_document_summarization.dart"
+                "codeLink": "https://github.com/syncfusion/flutter-examples/tree/master/lib/samples/ai_samples/ai_pdf_viewer/ai_document_summarization.dart",
+                "description": "This sample illustrates how the Syncfusion Flutter PDF Viewer, with the help of AI, can provide intelligent document summarization and contextual responses to user queries about PDF content."
               }
             ]
           }
