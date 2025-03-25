@@ -450221,7 +450221,7 @@ $.e3K=""
 $.eji=null
 $.ehY=A.b(["All","Today","Yesterday","This Week","This Month","This Year"],t.s)
 $.eiL=function(){var s=t.N
-return A.aq(["US","en_US","Canada","en_CA","UK","en_GB","Germany","de_DE","Japan","ja_JP","India","en_IN","China","zh_CN"],s,s)}()
+return A.aq(["Dollar","en_US","Canadian Dollar","en_CA","Pound","en_GB","Euro","de_DE","Yen","ja_JP","Rupee","en_IN","Yuan","zh_CN"],s,s)}()
 $.dNb=function(){var s=t.N
 return A.aq(["M/d/yyyy","11/1/2025","d/M/yyyy","1/11/2025","yyyy/M/d","2025/11/1","MMM d, yyyy","Nov 1st, 2025","d MMM, yyyy","1st Nov, 2025","yyyy, MMM d","2025, Nov 1st"],s,s)}()
 $.eGZ=null
