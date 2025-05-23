@@ -1,8 +1,8 @@
 {
-    "name": "syncfusion_flutter_showcase_stockchart",
-    "short_name": "syncfusion_flutter_showcase_stockchart",
+    "name": "flutter_examples",
+    "short_name": "flutter_examples",
     "start_url": ".",
-    "display": "standalone",
+    "display": "minimal-ui",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
     "description": "A new Flutter project.",
