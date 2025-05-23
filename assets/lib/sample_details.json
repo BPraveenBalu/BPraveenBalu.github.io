@@ -92,10 +92,39 @@
                 "description": "This sample illustrates how the Syncfusion Flutter PDF Viewer, with the help of AI, can automatically fill form fields using the content copied by the user."
               },
               {
-                "status": "New",
                 "type": "sample",
                 "title": "Summarizer",
                 "key": "pdf_viewer_document_summarization",
+                "codeLink": "https://github.com/syncfusion/flutter-examples/tree/master/lib/samples/ai_samples/ai_pdf_viewer/ai_document_summarization.dart",
+                "description": "This sample illustrates how the Syncfusion Flutter PDF Viewer, with the help of AI, can provide intelligent document summarization and contextual responses to user queries about PDF content."
+              }
+            ]
+          },
+          {
+            "status": "New",
+            "type": "child",
+            "title": "PDF Viewer",
+            "platformsToHide": [
+              "android",
+              "ios",
+              "web",
+              "windows",
+              "macos"
+            ],
+            "subItems": [
+              {
+                "status": "New",
+                "type": "sample",
+                "title": "PDF Viewer",
+                "key": "pdf_viewer_smart_fill_linux",
+                "codeLink": "https://github.com/syncfusion/flutter-examples/tree/master/lib/samples/ai_samples/ai_pdf_viewer/ai_form_filling.dart",
+                "description": "This sample illustrates how the Syncfusion Flutter PDF Viewer, with the help of AI, can automatically fill form fields using the content copied by the user."
+              },
+              {
+                "status": "New",
+                "type": "sample",
+                "title": "Summarizer",
+                "key": "pdf_viewer_document_summarization_linux",
                 "codeLink": "https://github.com/syncfusion/flutter-examples/tree/master/lib/samples/ai_samples/ai_pdf_viewer/ai_document_summarization.dart",
                 "description": "This sample illustrates how the Syncfusion Flutter PDF Viewer, with the help of AI, can provide intelligent document summarization and contextual responses to user queries about PDF content."
               }
@@ -3400,6 +3429,81 @@
             "type": "sample",
             "title": "Localization",
             "key": "pdf_viewer_localization",
+            "needsPropertyPanel": true,
+            "codeLink": "https://github.com/syncfusion/flutter-examples/blob/master/lib/samples/pdf_viewer/pdf_viewer_localization.dart"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "categoryName": "Viewer",
+    "mobileCategoryId": 5,
+    "webCategoryId": 5,
+    "platformsToHide": [
+      "android",
+      "ios",
+      "web",
+      "windows",
+      "macos"
+    ],
+    "controlList": [
+      {
+        "title": "PDF Viewer",
+        "description": "View the PDF document seamlessly and efficiently",
+        "image": "images/pdf_viewer.png",
+        "displayType": "tab",
+        "controlId": 1,
+        "status": "New",
+        "subItems": [
+          {
+            "type": "sample",
+            "title": "Getting Started",
+            "key": "pdf_viewer_getting_started_linux",
+            "status": "New",
+            "codeLink": "https://github.com/syncfusion/flutter-examples/blob/master/lib/samples/pdf_viewer/pdf_viewer_getting_started.dart"
+          },
+          {
+            "type": "sample",
+            "title": "Custom Toolbar",
+            "key": "pdf_viewer_custom_toolbar_linux",
+            "status": "New",
+            "codeLink": "https://github.com/syncfusion/flutter-examples/blob/master/lib/samples/pdf_viewer/pdf_viewer_custom_toolbar.dart"
+          },
+          {
+            "type": "sample",
+            "title": "Annotations",
+            "key": "pdf_viewer_annotations_linux",
+            "status": "New",
+            "codeLink": "https://github.com/syncfusion/flutter-examples/blob/master/lib/samples/pdf_viewer/pdf_viewer_annotations.dart"
+          },
+          {
+            "type": "sample",
+            "title": "Form Filling",
+            "key": "pdf_viewer_form_filling_linux",
+            "status": "New",
+            "codeLink": "https://github.com/syncfusion/flutter-examples/blob/master/lib/samples/pdf_viewer/pdf_viewer_form_filling.dart"
+          },
+          {
+            "type": "sample",
+            "title": "Encrypted",
+            "key": "pdf_viewer_encrypted_linux",
+            "status": "New",
+            "codeLink": "https://github.com/syncfusion/flutter-examples/blob/master/lib/samples/pdf_viewer/pdf_viewer_encrypted.dart"
+          },
+          {
+            "type": "sample",
+            "title": "RTL",
+            "key": "pdf_viewer_rtl_linux",
+            "status": "New",
+            "needsPropertyPanel": true,
+            "codeLink": "https://github.com/syncfusion/flutter-examples/blob/master/lib/samples/pdf_viewer/pdf_viewer_rtl.dart"
+          },
+          {
+            "type": "sample",
+            "title": "Localization",
+            "key": "pdf_viewer_localization_linux",
+            "status": "New",
             "needsPropertyPanel": true,
             "codeLink": "https://github.com/syncfusion/flutter-examples/blob/master/lib/samples/pdf_viewer/pdf_viewer_localization.dart"
           }
