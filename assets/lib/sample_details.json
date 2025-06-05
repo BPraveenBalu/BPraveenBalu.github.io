@@ -46,6 +46,13 @@
                 "title": "Predictive Data Entry",
                 "key": "predictive_data_entry",
                 "codeLink": "https://github.com/syncfusion/flutter-examples/tree/master/lib/samples/ai_samples/ai_datagrid/predictive_data_entry.dart"
+              },
+              {
+                "type": "sample",
+                "status": "New",
+                "title": "Semantic Filtering",
+                "key": "semantic_filtering",
+                "codeLink": "https://github.com/syncfusion/flutter-examples/tree/master/lib/samples/ai_samples/ai_datagrid/semantic_filtering.dart"
               }
             ]
           },
@@ -3720,6 +3727,7 @@
     "controlList": [
       {
         "title": "Slider",
+        "status": "Updated",
         "description": "The horizontal slider enables you to select a date or a numeric value",
         "image": "images/slider.png",
         "displayType": "tab",
@@ -3776,6 +3784,7 @@
               {
                 "type": "sample",
                 "title": "Labels customization",
+                "status": "Updated",
                 "key": "labels_customization_slider",
                 "codeLink": "https://github.com/syncfusion/flutter-examples/tree/master/lib/samples/sliders/slider/customization/slider_labels_customization.dart",
                 "description": "",
@@ -3825,6 +3834,7 @@
       },
       {
         "title": "Range Slider",
+        "status": "Updated",
         "description": "The horizontal range slider enables you to select a date or a numeric range",
         "image": "images/range_slider.png",
         "controlId": 2,
@@ -3893,6 +3903,7 @@
             "subItems": [
               {
                 "type": "sample",
+                "status": "Updated",
                 "title": "Labels customization",
                 "key": "range_slider_label_customization",
                 "codeLink": "https://github.com/syncfusion/flutter-examples/blob/master/lib/samples/sliders/range_slider/customization/range_slider_label_customization.dart",
@@ -3943,6 +3954,7 @@
       },
       {
         "title": "Vertical Slider",
+        "status": "Updated",
         "description": "The vertical slider enables you to select a date or a numeric value",
         "image": "images/vertical_slider.png",
         "displayType": "tab",
@@ -4003,6 +4015,7 @@
               {
                 "type": "sample",
                 "title": "Labels customization",
+                "status": "Updated",
                 "key": "vertical_slider_label_customization",
                 "codeLink": "https://github.com/syncfusion/flutter-examples/tree/master/lib/samples/sliders/vertical_slider/customization/vertical_slider_label_customization.dart",
                 "description": "",
@@ -4038,6 +4051,7 @@
       },
       {
         "title": "Vertical Range Slider",
+        "status": "Updated",
         "description": "The vertical range slider enables you to select a date or a numeric range",
         "image": "images/vertical_range_slider.png",
         "displayType": "tab",
@@ -4114,6 +4128,7 @@
               {
                 "type": "sample",
                 "title": "Labels customization",
+                "status": "Updated",
                 "key": "vertical_range_slider_label_customization",
                 "codeLink": "https://github.com/syncfusion/flutter-examples/tree/master/lib/samples/sliders/vertical_range_slider/customization/vertical_range_slider_label_customization.dart",
                 "description": "",
@@ -4149,6 +4164,7 @@
       },
       {
         "title": "Range Selector",
+        "status": "Updated",
         "description": "Visualize data and select a date or numeric range",
         "image": "images/range_selector.png",
         "displayType": "tab",
@@ -4164,6 +4180,7 @@
           {
             "type": "sample",
             "title": "Labels customization",
+            "status": "Updated",
             "key": "range_selector_label_customization",
             "codeLink": "https://github.com/syncfusion/flutter-examples/tree/master/lib/samples/sliders/range_selector/range_selector_label_customization.dart",
             "description": "",
