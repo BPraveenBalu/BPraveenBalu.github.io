@@ -46,6 +46,13 @@
                 "title": "Predictive Data Entry",
                 "key": "predictive_data_entry",
                 "codeLink": "https://github.com/syncfusion/flutter-examples/tree/master/lib/samples/ai_samples/ai_datagrid/predictive_data_entry.dart"
+              },
+              {
+                "type": "sample",
+                "status": "New",
+                "title": "Semantic Filtering",
+                "key": "semantic_filtering",
+                "codeLink": "https://github.com/syncfusion/flutter-examples/tree/master/lib/samples/ai_samples/ai_datagrid/semantic_filtering.dart"
               }
             ]
           },
