@@ -28,6 +28,14 @@
                 "key": "data_pre_processing_sample",
                 "codeLink": "https://github.com/syncfusion/flutter-examples/tree/master/lib/samples/ai_samples/ai_charts/data_pre_processing.dart",
                 "description": "AI-powered data cleaning and preprocessing work with the smart chart widget."
+              },
+              {
+                "status": "New",
+                "type": "sample",
+                "title": "Smart Charts",
+                "key": "smart_ai_charts",
+                "codeLink": "https://github.com/syncfusion/flutter-examples/tree/master/lib/samples/ai_samples/ai_charts/ai_smart_chart/smart_chart.dart",
+                "description": "AI-powered chart generator creates interactive and dynamic charts."
               }
             ]
           },
