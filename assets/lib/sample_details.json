@@ -59,9 +59,10 @@
               {
                 "type": "sample",
                 "status": "New",
-                "title": "Semantic Filtering",
+                "title": "Smart Filtering",
                 "key": "semantic_filtering",
-                "codeLink": "https://github.com/syncfusion/flutter-examples/tree/master/lib/samples/ai_samples/ai_datagrid/semantic_filtering.dart"
+                "codeLink": "https://github.com/syncfusion/flutter-examples/tree/master/lib/samples/ai_samples/ai_datagrid/semantic_filtering.dart",
+                "description": "This sample showcases how Smart Filtering enhances a DataGrid displaying medical diagnostics. With AI, users can retrieve relevant results using related terms—for example, searching 'stomach' returns entries like 'Abdominal pain'."
               }
             ]
           },
